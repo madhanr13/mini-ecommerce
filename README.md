@@ -39,3 +39,7 @@ A modern e-commerce platform built with MERN stack (MongoDB, Express.js, React.j
 - Cors
 - Dotenv
 
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
